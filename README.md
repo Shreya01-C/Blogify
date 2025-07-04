@@ -2,11 +2,11 @@
 Welcome to **Blogify**, a smart blog platform where users discover great content and engage in meaningful discussions. Whether you are a reader or a creator, Blogify offers a clean, responsive and interactive platform for modern blogging.
 
 ## 📌 Features
--- AI powered blog generation vis Google Gemini
--- Admin Dashboard to manage blogs and comments
--- Blog listing, detail view, comments, and moderation
--- Responsive UI built with React.js
--- Deployment-ready with Vercel
+— AI powered blog generation vis Google Gemini
+— Admin Dashboard to manage blogs and comments
+— Blog listing, detail view, comments, and moderation
+— Responsive UI built with React.js
+— Deployment-ready with Vercel
 
 ## 💻 Tech Stack
 **Frontend** 
